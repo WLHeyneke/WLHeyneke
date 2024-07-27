@@ -69,8 +69,6 @@
 * **Hons BEd** - Honours degree (Teaching and Learning), completed in 2011
 * **BEd** - Bachelor of Education (Electrical and Electronic Technology, FET), completed in 2007
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLHeyneke)](https://github.com/anuraghazra/github-readme-stats)
-
  ## **💼 What I do**
  * **Project planning:** I provide solutions for end-users through electronic systems that I plan for to meet their needs.
  * **Project Management:** Applying LEAN project management principles and using KANBAN for effective task management.
