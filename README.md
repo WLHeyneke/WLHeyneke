@@ -3,7 +3,9 @@
  I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
  I have an established background in technology, and I enjoy diving into new projects and investigating
  latest advancements in the field.
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l1J9KU2KmTwzptMD6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-digital-after-effects-l1J9KU2KmTwzptMD6">via GIPHY</a></p>
+ 
+![Alt text](https://giphy.com/embed/l1J9KU2KmTwzptMD6)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLHeyneke)](https://github.com/anuraghazra/github-readme-stats)
 
  ## :godmode: **What I do**
