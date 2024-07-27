@@ -4,7 +4,11 @@
  I have an established background in technology, and I enjoy diving into new projects and investigating
  latest advancements in the field.
  
-![Alt text](https://giphy.com/embed/l1J9KU2KmTwzptMD6)
+
+
+https://github.com/user-attachments/assets/7395b22c-a60b-4257-9067-e153b108a082
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLHeyneke)](https://github.com/anuraghazra/github-readme-stats)
 
