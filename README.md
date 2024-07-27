@@ -3,12 +3,6 @@
  I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
  I have an established background in technology, and I enjoy diving into new projects and investigating
  latest advancements in the field.
- 
-
-
-https://github.com/user-attachments/assets/7395b22c-a60b-4257-9067-e153b108a082
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLHeyneke)](https://github.com/anuraghazra/github-readme-stats)
 
