@@ -59,13 +59,6 @@
 <hr/>
 <br/>
 
- <h3 align="justify"> I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
- I have an established background in technology, and I enjoy diving into new projects and investigating
- latest advancements in the field.</h3>/><br>
- <br/><br/>
-
- </div>
- 
 ## **🎓 Education**
 * **PGDip Industrial Engineering** - Currently pursuing a Post-Graduate Diploma in Industrial Engineering
 * **BSc IT** - Currently pursuing a Bachelor of Science in Information Technology
@@ -87,6 +80,14 @@
 
 ## **💬 Ask me about** 
 * Python, html, CSS, JavaScript, React... or anything [here](https://github.com/WLHeyneke/WLHeyneke/issues)**
+
+ <h3 align="justify"> I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
+ I have an established background in technology, and I enjoy diving into new projects and investigating
+ latest advancements in the field.</h3>
+ <br/><br/>
+
+ </div>
+
 
 <!--
 **WLHeyneke/WLHeyneke** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
