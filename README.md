@@ -59,9 +59,11 @@
 
 <br/>
 
- I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
+ <h3 align="center"> I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
  I have an established background in technology, and I enjoy diving into new projects and investigating
- latest advancements in the field.
+ latest advancements in the field.</h3>
+
+ <br/><br/>
 
 ## **🎓 Education**
 * **PGDip Industrial Engineering** - Currently pursuing a Post-Graduate Diploma in Industrial Engineering
