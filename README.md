@@ -63,7 +63,8 @@
  I have an established background in technology, and I enjoy diving into new projects and investigating
  latest advancements in the field.</h3>
  <br/><br/>
- 
+
+<div align=left>
 ## **🎓 Education**
 * **PGDip Industrial Engineering** - Currently pursuing a Post-Graduate Diploma in Industrial Engineering
 * **BSc IT** - Currently pursuing a Bachelor of Science in Information Technology
@@ -85,6 +86,9 @@
 
 ## **💬 Ask me about** 
 * Python, html, CSS, JavaScript, React... or anything [here](https://github.com/WLHeyneke/WLHeyneke/issues)**
+
+<br/>
+</div>
 
 <!--
 **WLHeyneke/WLHeyneke** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
