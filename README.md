@@ -65,6 +65,8 @@
  <br/><br/>
 
 <div align=left>
+    <br/>
+</div>
 ## **🎓 Education**
 * **PGDip Industrial Engineering** - Currently pursuing a Post-Graduate Diploma in Industrial Engineering
 * **BSc IT** - Currently pursuing a Bachelor of Science in Information Technology
