@@ -24,7 +24,7 @@
  
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,javascript,c#,c++,c,java,nextjs,,mongodb,mysql" /><br>
 </div>
@@ -43,7 +43,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-WLHeyneke.vercel.app/?user=WLHeyneke&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -58,6 +58,15 @@
 <br/><br/>
 <hr/>
 <br/>
+
+ <h3 align="justify"> 
+     I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
+ I have an established background in technology, and I enjoy diving into new projects and investigating
+ latest advancements in the field./>
+ </h3>
+ <br/><br/>
+
+ </div>
 
 ## **🎓 Education**
 * **PGDip Industrial Engineering** - Currently pursuing a Post-Graduate Diploma in Industrial Engineering
@@ -80,13 +89,6 @@
 
 ## **💬 Ask me about** 
 * Python, html, CSS, JavaScript, React... or anything [here](https://github.com/WLHeyneke/WLHeyneke/issues)**
-
- <h3 align="justify"> I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
- I have an established background in technology, and I enjoy diving into new projects and investigating
- latest advancements in the field.</h3>
- <br/><br/>
-
- </div>
 
 
 <!--
