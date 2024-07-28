@@ -67,7 +67,7 @@
  </div>
 
 <h2 align="left">🎓 Education</h2>
-<ul>
+<ul style="text-align: left;">
   <li><strong>PGDip Industrial Engineering</strong> - Currently pursuing a Post-Graduate Diploma in Industrial Engineering</li>
   <li><strong>BSc IT</strong> - Currently pursuing a Bachelor of Science in Information Technology</li>
   <li><strong>Hons BEd</strong> - Honours degree (Teaching and Learning), completed in 2011</li>
@@ -75,26 +75,26 @@
 </ul>
 
 <h2 align="left">💼 What I Do</h2>
-<ul>
+<ul style="text-align: left;">
   <li><strong>Project Planning:</strong> I provide solutions for end-users through electronic systems that I plan for to meet their needs.</li>
   <li><strong>Project Management:</strong> Applying LEAN project management principles and using KANBAN for effective task management.</li>
   <li><strong>Full-Stack Development:</strong> I enjoy working on both front-end and back-end development, creating seamless and efficient applications.</li>
 </ul>
 
 <h2 align="left">💾 Current Projects</h2>
-<ul>
+<ul style="text-align: left;">
   <li><strong>Capstone Project:</strong> Currently working on a capstone project for my BSc IT degree, focusing on developing a comprehensive application for <strong>Share2Teach</strong>, a web development for a <strong>UNICEF</strong> initiative.</li>
 </ul>
 
 <h2 align="left">🎯 Interests</h2>
-<ul>
+<ul style="text-align: left;">
   <li><strong>Web Development:</strong> From crafting responsive web designs to implementing complex back-end functionalities.</li>
   <li><strong>Data Analysis:</strong> Applying data-driven approaches to solve problems and make informed decisions.</li>
   <li><strong>Continuous Learning:</strong> Always exploring new technologies and enhancing my skill set through various courses and self-study.</li>
 </ul>
 
 <h2 align="left">💬 Ask Me About</h2>
-<ul>
+<ul style="text-align: left;">
   <li>Python, HTML, CSS, JavaScript, React... or anything <a href="https://github.com/WLHeyneke/WLHeyneke/issues">here</a></li>
 </ul>
 
