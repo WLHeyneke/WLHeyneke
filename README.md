@@ -47,23 +47,23 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-WLHeyneke.vercel.app/?user=WLHeyneke&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+    <div align=center>
   <img width=390 src="https://github-readme-stats-WLHeyneke.vercel.app/api?username=WLHeyneke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+    <div align=center>
   <img width=325 align="center" src="https://github-readme-stats-WLHeyneke.vercel.app/api/top-langs/?username=WLHeyneke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
 </div>
-
 <br/><br/>
-
 <hr/>
-
 <br/>
 
  <h3 align="center"> I'm a tech enthusiast with a passion for exploring and building innovative solutions in the tech world.
  I have an established background in technology, and I enjoy diving into new projects and investigating
  latest advancements in the field.</h3>
-
  <br/><br/>
-
+ 
 ## **🎓 Education**
 * **PGDip Industrial Engineering** - Currently pursuing a Post-Graduate Diploma in Industrial Engineering
 * **BSc IT** - Currently pursuing a Bachelor of Science in Information Technology
