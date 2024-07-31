@@ -20,15 +20,6 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,javascript,c#,c++,c,java,nextjs,,mongodb,mysql" /><br>
-</div>
-
 <br/>
 <hr/>
 
@@ -60,6 +51,15 @@
 <br/>
         
  </div>
+
+ <hr/>
+ 
+<h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,javascript,c#,c++,c,java,nextjs,,mongodb,mysql" /><br>
+</div>
 
 <div align="left">
   <h2> 🎓 Education</h2>
