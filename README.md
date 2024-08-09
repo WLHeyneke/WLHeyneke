@@ -36,8 +36,10 @@
 
 <h2 align="left">⚡ Stats</h2>
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLHeyneke)](https://github.com/WLHeyneke/github-readme-stats)
+
 <div align=center>
-    [![WLHeyneke GitHub stats](https://github-readme-stats.vercel.app/api?username=WLHeyneke)](https://github.com/WLHeyneke/github-readme-stats)
   <img width=390 src="https://github-readme-streak-stats-WLHeyneke.vercel.app/?user=WLHeyneke&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
     <div align=center>
