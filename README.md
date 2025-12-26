@@ -64,8 +64,8 @@
   <h2> 🎓 Education</h2>
   <br>
     
-* **PGDip Industrial Engineering** - Currently pursuing a Post-Graduate Diploma in Industrial Engineering
-* **BSc IT** - Currently pursuing a Bachelor of Science in Information Technology
+* **PGDip Industrial Engineering** - Post-Graduate Diploma in Industrial Engineering
+* **BSc IT** - Bachelor of Science in Information Technology
 * **Hons BEd** - Honours degree (Teaching and Learning), completed in 2011
 * **BEd** - Bachelor of Education (Electrical and Electronic Technology, FET), completed in 2007
 
